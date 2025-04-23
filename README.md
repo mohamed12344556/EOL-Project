@@ -26,7 +26,7 @@
 ### المجموعة الرابعة: الملفات الشخصية
 | Student Profile | Teacher Profile |
 |----------------|-----------------|
-| ![Student Profile](screenshots/student_profile.png) | ![Teacher Profile](screenshots/teacher_profile.png) |
+| ![Student Profile](screenshots/iPhone16Plus_4.png) | ![Teacher Profile](screenshots/iPhone16Plus7.png) |
 
 
 ---
@@ -60,7 +60,7 @@
 ## 📦 تركيب المشروع
 
 ```bash
-git clone https://github.com/your-username/eol-app.git
+git clone https://github.com/mohamed12344556/eol-app.git
 cd eol-app
 flutter pub get
 flutter run
@@ -72,4 +72,4 @@ flutter run
 
 - 👨‍💻 Mohamed Ahmed Mohamed Abdelkawy  
 - 📧 mohamed@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelqawi/) | [GitHub](https://github.com/mohamed12344556)
