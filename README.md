@@ -48,7 +48,7 @@
 ## 🛠️ التقنيات المستخدمة
 
 - Flutter
-- Firebase
+- BackEnd Dot Net
 - Bloc / Cubit
 - Lottie
 - Google Sign-In & Facebook Auth
