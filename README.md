@@ -21,7 +21,7 @@
 ### المجموعة الثالثة: صفحات المحتوى والتعلم
 | Course | Class Room |
 |--------|-----------|
-| ![Courses](screenshots/before_purshase_1.jpg) | ![ClassRoom](screenshots/Class_Room.png) | ![ClassRoom](screenshots/Chatinng_With_Mr_In_class_room.png) | 
+| ![Courses](screenshots/before_purshase.png) | ![ClassRoom](screenshots/Class_Room.png) | ![ClassRoom](screenshots/Chatinng_With_Mr_In_class_room.png) | 
 
 ### المجموعة الرابعة: الملفات الشخصية
 | Student Profile | Teacher Profile |
