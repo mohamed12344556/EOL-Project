@@ -11,8 +11,7 @@
 
 | الصفحة الرئيسية | صفحة الكورسات | صفحة الامتحانات |
 |------------------|------------------|------------------|
-| ![Home](screenshots/home.png) | ![Courses](screenshots/courses.png) | ![Exams](screenshots/exams.png) |<img width="431" alt="Light_sign up step 2" src="https://github.com/user-attachments/assets/35b92998-f991-4fda-a4e5-38c309b4358a" />
-
+| ![Home](screenshots/home.png) | ![Courses](screenshots/courses.png) | ![Exams](screenshots/exams.png) |
 
 
 ---
