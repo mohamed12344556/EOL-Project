@@ -11,7 +11,7 @@
 
 | الصفحة الرئيسية | صفحة الكورسات | صفحة الامتحانات |
 |------------------|------------------|------------------|
-| ![Home](screenshots/home.png) | ![Courses](screenshots/courses.png) | ![Exams](screenshots/exams.png) |
+| ![Home](screenshots/Home.png) | ![Courses](screenshots/courses.png) | ![Exams](screenshots/exams.png) |
 
 
 ---
