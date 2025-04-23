@@ -19,8 +19,8 @@
 | ![Home](screenshots/Home.png) | ![Rank](screenshots/Rank.png) | ![Community](screenshots/Students.png) | ![Plan](screenshots/iPhone_16_Plus_6.png) |
 
 ### المجموعة الثالثة: صفحات المحتوى والتعلم
-| Course | Class Room |
-|--------|-----------|
+| Course | Class Room | Class Room
+|--------|-----------|-----------|
 | ![Courses](screenshots/before_purshase.png) | ![ClassRoom](screenshots/Class_Room.png) | ![ClassRoom](screenshots/Chatinng_With_Mr_In_class_room.png) | 
 
 ### المجموعة الرابعة: الملفات الشخصية
