@@ -11,7 +11,7 @@
 ### المجموعة الأولى: تجربة البداية
 | Onboarding | Authentication |
 |------------|----------------|
-| ![Onboarding](screenshots/onboarding.png) | ![Authentication](screenshots/auth.png) |
+| ![Onboarding](screenshots/Light_sign up step 3.png) | ![Authentication](screenshots/auth.png) |
 
 ### المجموعة الثانية: الشاشات الرئيسية
 | Home | Rank | Community | Plan |
