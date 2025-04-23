@@ -16,7 +16,7 @@
 ### المجموعة الثانية: الشاشات الرئيسية
 | Home | Rank | Community | Plan |
 |------|------|-----------|------|
-| ![Home](screenshots/Home.png) | ![Rank](screenshots/Rank.png) | ![Community](screenshots/community.png) | ![Plan](screenshots/plan.png) |
+| ![Home](screenshots/Home.png) | ![Rank](screenshots/Rank.png) | ![Community](screenshots/Students.png) | ![Plan](screenshots/iPhone_16_Plus_6.png) |
 
 ### المجموعة الثالثة: صفحات المحتوى والتعلم
 | Course | Class Room |
