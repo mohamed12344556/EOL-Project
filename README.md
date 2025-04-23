@@ -71,5 +71,5 @@ flutter run
 ## 🧑‍💻 المطور
 
 - 👨‍💻 Mohamed Ahmed Mohamed Abdelkawy  
-- 📧 mohamed@example.com  
+- 📧 mohamedahbd545@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-abdelqawi/) | [GitHub](https://github.com/mohamed12344556)
