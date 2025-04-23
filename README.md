@@ -1,4 +1,3 @@
-
 # 📚 EOL App
 
 تطبيق EOL هو منصة تعليمية تفاعلية تهدف إلى تسهيل عملية التعلم للطلاب من خلال محتوى منظم، اختبارات، تواصل مباشر، والكثير من الميزات الذكية.
@@ -9,10 +8,27 @@
 
 إليك بعض صور التطبيق من الداخل:
 
-| الصفحة الرئيسية | صفحة الكورسات | صفحة الامتحانات |
-|------------------|------------------|------------------|
-| ![Home](screenshots/Home.png) | ![Courses](screenshots/courses.png) | ![Exams](screenshots/exams.png) |
+### المجموعة الأولى: تجربة البداية
+| Onboarding | Authentication |
+|------------|----------------|
+| ![Onboarding](screenshots/onboarding.png) | ![Authentication](screenshots/auth.png) |
 
+### المجموعة الثانية: الشاشات الرئيسية
+| Home | Rank | Community | Plan |
+|------|------|-----------|------|
+| ![Home](screenshots/home.png) | ![Rank](screenshots/rank.png) | ![Community](screenshots/community.png) | ![Plan](screenshots/plan.png) |
+
+### المجموعة الثالثة: صفحات المحتوى والتعلم
+| Course | Class Room |
+|--------|-----------|
+| ![Courses](screenshots/courses.png) | ![ClassRoom](screenshots/classroom.png) |
+
+### المجموعة الرابعة: الملفات الشخصية
+| Student Profile | Teacher Profile |
+|----------------|-----------------|
+| ![Student Profile](screenshots/student_profile.png) | ![Teacher Profile](screenshots/teacher_profile.png) |
+
+> ✨ ملاحظة: تأكد من حفظ السكريينات داخل مجلد `screenshots` في نفس مستوى ملف `README.md`.
 
 ---
 
