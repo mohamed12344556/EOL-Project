@@ -21,14 +21,13 @@
 ### المجموعة الثالثة: صفحات المحتوى والتعلم
 | Course | Class Room |
 |--------|-----------|
-| ![Courses](screenshots/before_purshase_1.jpg) | ![ClassRoom](screenshots/classroom.png) |
+| ![Courses](screenshots/before_purshase_1.jpg) | ![ClassRoom](screenshots/Class_Room.png) | ![ClassRoom](screenshots/Chatinng_With_Mr_In_class_room.png) | 
 
 ### المجموعة الرابعة: الملفات الشخصية
 | Student Profile | Teacher Profile |
 |----------------|-----------------|
 | ![Student Profile](screenshots/student_profile.png) | ![Teacher Profile](screenshots/teacher_profile.png) |
 
-> ✨ ملاحظة: تأكد من حفظ السكريينات داخل مجلد `screenshots` في نفس مستوى ملف `README.md`.
 
 ---
 
